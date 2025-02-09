@@ -6,6 +6,9 @@ h2{
     color: green;
     background-color: black;
 }
+h3{
+    color: blue;
+}
 body{
     display: flex;
     justify-content: center;
